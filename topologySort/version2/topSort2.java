@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class topSort1{
+public class topSort2{
 
     public static void main(String[]args) throws FileNotFoundException,IOException{
         System.out.println("Topological Orders:");
